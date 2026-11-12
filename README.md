@@ -25,8 +25,7 @@ A Python-based Weather Report Generator that fetches real-time weather informati
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/python-weather-report-generator.git
-   ```
+   git clone https://github.com/shreyasmadhwal2305-png/Python-Weather-Report-Generator.git   ```
 
 2. Navigate into the project directory:
 
